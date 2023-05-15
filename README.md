@@ -1,6 +1,10 @@
 # BMI_Calculator
 This project can be calculate your bmi and give you what your bmi range information !
 
+I have used in this project *spring boot* for backend.
+I have used in this project *PostgreSql* for Database.
+I have used in this project *React* for frontend.
+
 Outputs of the project below.
 
   ![B5971E2C-201E-45FF-8983-DFECB0DDF4B2](https://github.com/omerfaruksaglam/BMI_Calculator/assets/77232217/f7fc60e3-9c85-4387-ab3b-705f11c506be)
